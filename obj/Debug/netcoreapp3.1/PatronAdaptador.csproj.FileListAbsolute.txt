@@ -1,0 +1,11 @@
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\06_Adaptador\PatronAdaptador\bin\Debug\netcoreapp3.1\PatronAdaptador.exe
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\06_Adaptador\PatronAdaptador\bin\Debug\netcoreapp3.1\PatronAdaptador.deps.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\06_Adaptador\PatronAdaptador\bin\Debug\netcoreapp3.1\PatronAdaptador.runtimeconfig.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\06_Adaptador\PatronAdaptador\bin\Debug\netcoreapp3.1\PatronAdaptador.runtimeconfig.dev.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\06_Adaptador\PatronAdaptador\bin\Debug\netcoreapp3.1\PatronAdaptador.dll
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\06_Adaptador\PatronAdaptador\bin\Debug\netcoreapp3.1\PatronAdaptador.pdb
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\06_Adaptador\PatronAdaptador\obj\Debug\netcoreapp3.1\PatronAdaptador.csprojAssemblyReference.cache
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\06_Adaptador\PatronAdaptador\obj\Debug\netcoreapp3.1\PatronAdaptador.AssemblyInfoInputs.cache
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\06_Adaptador\PatronAdaptador\obj\Debug\netcoreapp3.1\PatronAdaptador.AssemblyInfo.cs
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\06_Adaptador\PatronAdaptador\obj\Debug\netcoreapp3.1\PatronAdaptador.dll
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\06_Adaptador\PatronAdaptador\obj\Debug\netcoreapp3.1\PatronAdaptador.pdb
